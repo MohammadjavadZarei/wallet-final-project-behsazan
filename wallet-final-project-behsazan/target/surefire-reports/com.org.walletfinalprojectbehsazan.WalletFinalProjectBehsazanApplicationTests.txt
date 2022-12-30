@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.org.walletfinalprojectbehsazan.WalletFinalProjectBehsazanApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.958 s - in com.org.walletfinalprojectbehsazan.WalletFinalProjectBehsazanApplicationTests
